@@ -4,7 +4,7 @@ import React from 'react'
 const Explore = () => {
     return (
         <View>
-            <Text className="text-sm font-bold">Explore</Text>
+            <Text className="text-sm font-rubik-bold">Explore</Text>
         </View>
     )
 }
