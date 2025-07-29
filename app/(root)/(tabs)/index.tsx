@@ -13,6 +13,8 @@ export default function Index() {
 
   return (
     <SafeAreaView className="bg-white h-full">
+
+
         <FlatList
             data={[1, 2, 3, 4]}
             renderItem={({item}) => <Card />}
